@@ -8,17 +8,20 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Suyane Simplicia Faria Silva
+- Matricula: 905187
+- Proposta de projeto escolhida: Brasil Colônia - Museus e Exposições.
+- Breve descrição sobre seu projeto: Meu projeto pretende apresentar um museu contemporâneo, onde os visitantes sejam incluídos virtualmente, sem a necessidade de se deslocarem para outras cidades.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe](public/imagens/wireframe.png)
+
 
 
 ## Print da home-page criada
+![HomePage](public/imagens/Homepage.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
+
+
